@@ -5,7 +5,7 @@ Template: rife-free
 Version: 1.0
 Author: Tejas, Dhruvi, Parth, Sandhya
 */
-body{
-	padding: 5px;
-	border: solid 10px #333;
+
+.custom-logo-link{
+	width: 61px;
 }
